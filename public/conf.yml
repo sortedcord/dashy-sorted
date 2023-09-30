@@ -26,4 +26,9 @@ sections:
     icon: favicon
     url: https://unacademy.com/goal/jee-main-and-advanced-preparation/TMUVD/planner
     target: sametab
+  - title: Control V
+    description: Edit, share, annotate and highlight images in your clipboard.
+    url: https://ctrl.vi/
+    icon: favicon
+    target: sametab
  
