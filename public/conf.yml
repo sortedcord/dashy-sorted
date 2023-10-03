@@ -4,10 +4,8 @@ pageInfo:
   title: New Tab
   description: Welcome to your new dashboard!
   navLinks:
-  - title: GitHub
-    path: https://github.com/Lissy93/dashy
-  - title: Documentation
-    path: https://dashy.to/docs
+  - title: Edit Config
+    path: https://github.dev/sortedcord/dashy-sorted/tree/master/public
 
 # Optional app settings and configuration
 appConfig:
@@ -31,4 +29,7 @@ sections:
     url: https://ctrl.vi/
     icon: favicon
     target: sametab
+  - title: Monkey
+    description: Test your typing
+    
  
